@@ -1,0 +1,17 @@
+{
+  "name": "sparkjs-rad-mirror",
+  "version": "0.0.1",
+  "description": "Demonstration of mirror sorting issue with .rad files in sparkjs",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.166.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
